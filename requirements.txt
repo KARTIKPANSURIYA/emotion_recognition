@@ -1,0 +1,7 @@
+numpy
+tensorflow>=2.8
+tensorflow-hub
+pandas
+scikit-learn
+matplotlib
+librosa
