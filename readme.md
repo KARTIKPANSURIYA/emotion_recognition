@@ -5,7 +5,7 @@
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/KARTIKPANSURIYA/emotion_recog.git
+   git clone https://github.com/KARTIKPANSURIYA/emotion_recognition.git
    cd emotion_recog
    
 # Record 10 s live:
